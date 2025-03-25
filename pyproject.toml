@@ -1,0 +1,7 @@
+pokedex-app
+├── src
+│   ├── app.py
+│   └── requirements.txt
+├── setup.py
+├── pyproject.toml
+└── README.md
